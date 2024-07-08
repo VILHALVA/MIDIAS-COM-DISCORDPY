@@ -31,7 +31,7 @@ O bot desenvolvido em Discord.py é projetado para enviar diferentes tipos de m�
 
 ## EXECUTANDO O PROJETO:
 1. **Editar o código:**
-   - Certifique-se de substituir `seu_token_aqui` pelas informações corretas das suas credenciais em `CODIGO/TOKEN.py`.
+   - Substitua `seu_token_aqui` pelas suas credenciais corretas, que podem ser obtidas no [Discord Developer Portal](https://discord.com/developers/applications), em `CODIGO/TOKEN.py`.
 
 2. **Instalando as dependências:**
    - Antes de executar o aplicativo, certifique-se de instalar todas as dependências necessárias. No terminal, execute o seguinte comando para instalar as dependências listadas no arquivo `requirements.txt` no diretório: `CODIGO`:
