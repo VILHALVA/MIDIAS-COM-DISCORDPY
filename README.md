@@ -1,10 +1,10 @@
 # MIDIAS COM DISCORDPY
 🤖ESTE É UM BOT FEITO COM DISCORDPY. ELE É PROJETADO PARA ENVIAR DIFERENTES TIPOS DE MÍDIA EM RESPOSTA A COMANDOS ESPECÍFICOS NO DISCORD.
 
-<img src="./IMAGENS/FOTO_1.png" align="center" width="400"> <br>
-<img src="./IMAGENS/FOTO_2.png" align="center" width="400"> <br>
-<img src="./IMAGENS/FOTO_3.png" align="center" width="400"> <br>
-<img src="./IMAGENS/FOTO_4.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_01.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_02.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_03.png" align="center" width="400"> <br>
+<img src="./IMAGENS/FOTO_04.png" align="center" width="400"> <br>
 
 ## DESCRIÇÃO:
 O bot desenvolvido em Discord.py é projetado para enviar diferentes tipos de mídia em resposta a comandos específicos no Discord. Ele é configurado para responder aos comandos `/foto`, `/musica`, `/video`, e `/documento`, enviando arquivos de imagem, áudio, vídeo e documento, respectivamente.
@@ -32,7 +32,7 @@ O bot desenvolvido em Discord.py é projetado para enviar diferentes tipos de m�
 ## EXECUTANDO O PROJETO:
 1. **Editar o código:**
    - Substitua `seu_token_aqui` pelas suas credenciais corretas, que podem ser obtidas no [Discord Developer Portal](https://discord.com/developers/applications), em `CODIGO/TOKEN.py`.
-
+   
 2. **Instalando as dependências:**
    - Antes de executar o aplicativo, certifique-se de instalar todas as dependências necessárias. No terminal, execute o seguinte comando para instalar as dependências listadas no arquivo `requirements.txt` no diretório: `CODIGO`:
    ```bash
